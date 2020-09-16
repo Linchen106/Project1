@@ -13,7 +13,6 @@ The project can also be divided into the following steps:
 ## The data
 The dataset can be found in the file "King_County_House_prices_dataset.csv", in this folder.
 The description of the column names can be found in the column_names.md file in this repository.
-The column names are NOT clear at times.
 
 ## Tasks 
 Through statistical analysis/EDA, above please come up with AT LEAST 3 (you can definitely get bonus points for more than 3) recommendations for home sellers and/or buyers in King County.
