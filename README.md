@@ -26,3 +26,4 @@ Use Root Mean Squared Error (RMSE) as your metric of success and try to minimize
 The result of the project can be found in the attached jupyter notebbook and in the slides which are attached as well.
 
 ## Links
+https://github.com/Linchen106/
