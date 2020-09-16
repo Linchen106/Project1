@@ -1,11 +1,14 @@
-# Project1
+# Project1 - Analysis of King County Data
 ## Description
 This is my first project during the bootcamp. Here I'm working with the King County House Sales dataset. The focus is on EDA to demonstrate an entire Data Science Lifecycle.
 The project can also be divided into the following steps:
 1. Business Understanding
 2. Data Mining
 3. Data Cleaning
-4. Data 
+4. Data Exploration / Analysis
+5. Feature Engineering
+6. Predictive Modelling
+7. Data Visualization
  
 ## The data
 The dataset can be found in the file "King_County_House_prices_dataset.csv", in this folder.
@@ -21,4 +24,6 @@ Split the dataset into a train and a test set.
 Use Root Mean Squared Error (RMSE) as your metric of success and try to minimize this score on your test data.
 
 ## Result
-The result of the 
+The result of the project can be found in the attached jupyter notebbook and in the slides which are attached as well.
+
+## Links
